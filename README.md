@@ -2,7 +2,8 @@
 
 ## 1. Descripción del Proyecto
 
-Es un sistema de ventas para *TechStore* que permite gestionar **productos, inventario y ventas**.  
+Es un sistema de ventas para *TechStore* que permite gestionar **productos, inventario y ventas**.
+
 Su objetivo es facilitar el **control de existencias y la facturación** de manera organizada.
 
 ## 2. Requisitos del Sistema
